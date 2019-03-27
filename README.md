@@ -1,3 +1,3 @@
 # Python - Serial read and write
 
-a very very simple python serial read and write program.
+a very very simple serial read and write program.
